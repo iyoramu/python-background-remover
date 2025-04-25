@@ -16,7 +16,7 @@ A Python tool to remove backgrounds from images with a single command, using AI-
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iyoramu/python-background-remover.git
+git clone https://github.com/iyoramu/python-bg-remover.git
 cd python-background-remover
 ```
 
